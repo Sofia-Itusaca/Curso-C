@@ -25,7 +25,7 @@ int division(int a, int b)
     return c;
 }
 
-int main()
+int main() int main()
 {
     cout << "ingrese una opcion: \n 1: suma \n 2:resta \n 3: multiplicacion \n 4: division \n";
     int opcion;
